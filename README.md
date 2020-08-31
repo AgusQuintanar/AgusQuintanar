@@ -1,4 +1,4 @@
-<img src= "https://github.com/AgusQuintanar/AgusQuintanar/raw/master/assets/me-github-pro.gif" width=100%></img>
+<img src= "https://github.com/AgusQuintanar/AgusQuintanar/raw/master/assets/me-github.gif" width=100%></img>
 
 ### Hi there 👋
 
