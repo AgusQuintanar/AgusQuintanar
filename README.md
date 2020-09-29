@@ -4,5 +4,5 @@
 
 
 
-Portfolio: [](www.agusquintanar.com/)
+Portfolio: www.agusquintanar.com/
 
