@@ -1,4 +1,3 @@
-<img src= "https://github.com/AgusQuintanar/AgusQuintanar/raw/master/assets/me-github.gif" width=100%></img>
 
 <p align="center">
 <a href="https://www.agusquintanar.com"><img src="https://img.shields.io/badge/portfolio-DD4B39.svg?&style=for-the-badge&logo=react&logoColor=white" height=35 target="_blank" ></a>
