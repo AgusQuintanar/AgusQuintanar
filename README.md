@@ -3,8 +3,7 @@
 <a href="https://www.agusquintanar.com"><img src="https://img.shields.io/badge/portfolio-DD4B39.svg?&style=for-the-badge&logo=react&logoColor=white" height=35 target="_blank" ></a>
 <a href="https://www.linkedin.com/in/agustin-salvador-quintanar-de-la-mora-573867170/"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35 target="_blank" ></a>
 <a href="https://www.instagram.com/agus_quintanar/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=35 target="_blank" ></a> 
-<a href="https://twitter.com/AgusQuintanar"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=35 target="_blank" ></a>
-<a href="https://www.facebook.com/agus.quintanar"><img src="https://img.shields.io/badge/facebook-%2314354C.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=35 target="_blank" ></a>
+
 </p>
 
 <br>
